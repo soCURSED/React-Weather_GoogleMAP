@@ -1,0 +1,16 @@
+.weather-container-map {
+  text-align: center;
+}
+
+.weather-map-drop {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 46px;
+  backdrop-filter: blur(5px);
+  box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
+  border: 0px rgba(255,255,255,0.4) solid;
+  border-bottom: 0px rgba(40,40,40,0.35) solid;
+  border-right: 0px rgba(40,40,40,0.35) solid;}

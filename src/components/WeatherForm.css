@@ -1,0 +1,36 @@
+.container-form {
+  display: flex;
+  margin: 2rem 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  background-color: rgba(0, 0, 0, 0.623);
+  border: none;
+  border-radius: 5px;
+  width: 160px;
+  padding: 10px 10px;
+  color: white;
+  outline: none;
+  transition: 1s ease;
+}
+.input:focus {
+  outline: none;
+  transition: 1.5s ease;
+  width: 300px;
+}
+
+
+.weatherSearch {
+  margin: 0 15px;
+  font-size: 1.2em;
+  border: none;
+  color: #ffffff;
+}
+
+
+.container-mid {
+  margin: 3rem 0;
+  
+}
